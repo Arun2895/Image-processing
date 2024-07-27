@@ -33,8 +33,7 @@ This project provides a simple interface for image processing using Gradio. You 
 ### 1. Flip Image
 
 You can flip the image in two ways:
-- **Left-Right Flip**: Flips the image horizontally.
-- **Top-Bottom Flip**: Flips the image vertically.
+- **Left-Right Flip**: Flips the image horizontally and vertically.
 
 ### 2. Rotate Image
 
